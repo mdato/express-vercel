@@ -1,2 +1,6 @@
 # express-vercel
-Deploy express js to vercel.
+Simple express node app deploy to vercel
+https://express-vercel-mdato.vercel.app/api/product
+
+### BACode by Marcelo Dato :: Full Stack Developer :: LingBodie
+https://bacode.com.ar
